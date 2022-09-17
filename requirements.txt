@@ -1,0 +1,6 @@
+jupyter
+duckdb
+pysrp
+gutenberg
+pyarrow
+htrc-feature-reader
